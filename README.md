@@ -6,7 +6,7 @@
 
 - [CSS](css)
 - [JavaScript](javascript)
-- [Web Performance](https://github.com/research-experiment/web-performance-research)
+- [Web Performance](https://github.com/imteekay/web-performance-research)
 
 ## Better Software
 
